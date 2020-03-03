@@ -1,0 +1,21 @@
+{
+    "name": "Intergen CodeCop Ruleset",
+    "rules": [
+        {                    
+            "id": "AA0005",                    
+            "action": "None"
+        },
+        {
+            "id": "AA0139",
+            "action": "Info"
+        },
+        {
+            "id": "AA0152",
+            "action": "None"
+        },
+        {
+            "id": "AS0013",
+            "action": "Warning"
+        }
+    ]
+}
